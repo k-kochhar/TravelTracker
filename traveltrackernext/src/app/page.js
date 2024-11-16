@@ -11,8 +11,8 @@ export default function Home() {
 
 	const fetchPosts = async () => {
 		try {
-			const response = await fetch(process.env.NEXT_PUBLIC_BACKEND_URL);
-      console.log(process.env.NEXT_PUBLIC_BACKEND_URL)
+			const response = await fetch(`${process.env.NEXT_PUBLIC_BACKEND_URL}/api/posts`);
+      console.log(`${process.env.NEXT_PUBLIC_BACKEND_URL}/api/posts`)
 			const data = await response.json();
 
 			if (JSON.stringify(data) !== JSON.stringify(lastFetchedData)) {
