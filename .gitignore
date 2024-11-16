@@ -1,0 +1,9 @@
+# Frontend
+traveltrackerreact/node_modules
+
+# Backend
+traveltrackerapi/.venv
+traveltrackerapi/__pycache__
+
+# OS-specific files
+.DS_Store
