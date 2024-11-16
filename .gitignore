@@ -4,6 +4,8 @@ traveltrackerreact/node_modules
 # Backend
 traveltrackerapi/.venv
 traveltrackerapi/__pycache__
+traveltrackerapi/.env
+
 
 # OS-specific files
 .DS_Store
