@@ -1,10 +1,10 @@
-# 🚀 **[TravelTracker](https://traveltracker.kshitijkochhar.com)** 🌍
+# **[TravelTracker](https://traveltracker.kshitijkochhar.com)**
 
 TravelTracker is a real-time, interactive map application that visualizes recent travel-related posts from Reddit's r/Travel subreddit. By clicking on the pins, users can explore the travel locations discussed in Reddit posts, making it an engaging tool for discovering travel destinations and itineraries!
 
 ---
 
-## ✨ **Features**
+## **Features**
 - **Real-Time Updates**: Fetches the latest posts from Reddit's r/Travel every 10 seconds and updates the map.
 - **Interactive Map**: Uses Leaflet.js to display travel locations.
 - **Reddit Integration**: Automatically extracts city-level locations from Reddit posts using NLP.
@@ -13,7 +13,7 @@ TravelTracker is a real-time, interactive map application that visualizes recent
 
 ---
 
-## 🛠️ **Tech Stack**
+## **Tech Stack**
 - **Frontend**: React, Next.js, Tailwind CSS, Leaflet.js
 - **Backend**: Flask, Python
 - **Geocoding**: OpenCage API
@@ -25,7 +25,7 @@ TravelTracker is a real-time, interactive map application that visualizes recent
 
 ---
 
-## 📸 **Demo**
+## **Demo**
 [Live Demo](https://traveltracker.kshitijkochhar.com)
 
 ---
