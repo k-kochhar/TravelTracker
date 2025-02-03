@@ -1,6 +1,8 @@
 # **[TravelTracker](https://traveltracker.kshitijkochhar.com)**
 
-TravelTracker is a real-time, interactive map application that visualizes recent travel-related posts from Reddit's r/Travel subreddit. By clicking on the pins, users can explore the travel locations discussed in Reddit posts, making it an engaging tool for discovering travel destinations and itineraries!
+TravelTracker is a real-time, interactive map application that visualizes recent travel-related posts from Reddit's r/Travel subreddit. By clicking on the pins, users can explore the travel locations discussed in Reddit posts, making it a cool experience to learn more about the world
+
+<img width="1920" alt="Screenshot 2025-02-03 at 5 09 06 PM" src="https://github.com/user-attachments/assets/289be0c8-380a-473b-8f6c-dc89b1387138" />
 
 ---
 
@@ -26,6 +28,6 @@ TravelTracker is a real-time, interactive map application that visualizes recent
 ---
 
 ## **Demo**
-[Live Demo](https://traveltracker.kshitijkochhar.com)
+https://traveltracker.kshitijkochhar.com
 
 ---
