@@ -62,7 +62,7 @@ export default function Home() {
 					</p>
 					<p className="text-gray-600 mt-2 text-center">
 						Estimated time:{" "}
-						<span className="font-medium">up to 50 seconds</span>
+						<span className="font-medium">up to 75 seconds</span>
 					</p>
 					<p className="text-gray-600 mt-1">
 						Elapsed time:{" "}
